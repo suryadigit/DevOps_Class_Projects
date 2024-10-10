@@ -1,2 +1,1 @@
-### Start DevOps journey now!
-Kubernetes Deployment
+### Start DevOps journey nows!
